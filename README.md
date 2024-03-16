@@ -29,8 +29,9 @@ Some of today's work is in Unity 🙌 but the theory will carry across to Python
 </div>
 
 ## Extra Resources
+- [Programming Patterns (Official): Spatial Partitioning](https://gameprogrammingpatterns.com/spatial-partition.html)
 ### Grid
 - [Programming Patterns: Spatial Partitioning](https://www.habrador.com/tutorials/programming-patterns/19-spatial-partition-pattern/)
 ### Quad-tree
 - [Quad-tree in 22 Lines of Code](https://lisyarus.github.io/blog/programming/2022/12/21/quadtrees.html)
-- [In-depth Stack Overflow Discussion](https://stackoverflow.com/questions/41946007/efficient-and-well-explained-implementation-of-a-quadtree-for-2d-collision-det))
+- [In-depth Stack Overflow Discussion](https://stackoverflow.com/questions/41946007/efficient-and-well-explained-implementation-of-a-quadtree-for-2d-collision-det)
